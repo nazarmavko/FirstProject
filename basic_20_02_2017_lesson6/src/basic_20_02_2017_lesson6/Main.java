@@ -20,7 +20,7 @@ public class Main {
 				number = number%i;
 			}
 		}
-		
+		System.out.println("end");
 		
 		
 		
